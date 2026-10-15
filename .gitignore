@@ -1,0 +1,19 @@
+# Go build and test output
+bin/
+*.test
+*.out
+*.prof
+coverage.*
+
+# Lab artifacts that can always be re-created (extend as projects need it)
+*.qcow2
+*.img
+*.iso
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# macOS and editors
+.DS_Store
+.idea/
+*.swp

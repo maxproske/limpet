@@ -1,0 +1,3 @@
+# Toolchain for this course. `mise install` in this directory sets it up.
+[tools]
+go = "1.27"
